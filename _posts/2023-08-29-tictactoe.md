@@ -4,7 +4,6 @@ comments: false
 hide: true
 layout: post
 title: Tic Tac Toe
-description: play
 courses: { compsci: {week: 2} }
 type: hacks
 ---
