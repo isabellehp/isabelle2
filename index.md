@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-## CSP Lab Notebook
+# CSP Lab Notebook
 Isabelle Park
 
 ## Overview of Hacks, Study and Tangibles
