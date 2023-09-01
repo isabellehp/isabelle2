@@ -14,6 +14,5 @@ courses: { compsci: {week: 2} }
     - Change theme and plans
     - Add more hacks
         - Games: tic tac toe, snake
-        - Calculator
     - Personalize homepage
 - Live reivew tbd

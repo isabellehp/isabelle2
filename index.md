@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-# CSP Lab Notebook
+# Computer Science Lab Notebook
 ## Isabelle Park
 ![](images/collage.png) 
 
