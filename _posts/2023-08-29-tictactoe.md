@@ -149,7 +149,7 @@ p {
     <div id="main">
         <h1>TIC TAC TOE</h1>
         <p id="ins">
-            Game starts by just Tap on
+            Game starts by just tapping on a
             box<br><br>First Player starts as
             <b>Player X </b>And Second Player as
             <b>Player 0</b>
