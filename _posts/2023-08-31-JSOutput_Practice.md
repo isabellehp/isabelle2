@@ -3,7 +3,7 @@ toc: false
 comments: false
 hide: true
 layout: post
-title: JS Output Personal
+title: JS Output Practice
 courses: { compsci: {week: 2} }
 type: hacks
 ---
