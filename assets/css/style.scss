@@ -9,8 +9,8 @@
     width: auto;
     height: auto;
     border-radius: 10px;
-    background-color: #21807c;
-    border: 3px solid black;
+    background-color: #ebc5f0;
+    border: 3px solid rgb(51, 9, 59);
     font-size: 1.5em;
 
     display: flex;
@@ -79,12 +79,12 @@
   /* styling for the calculator clear button */
   .calculator-clear {
     @extend .button;
-    background-color: #e68b1c;
+    background-color: #9056bf;
   }
   
   /* styling for the calculator equals button */
   .calculator-equals {
     @extend .button;
-    background-color: #e70f0f;
+    background-color: #9056bf;
   }
 
