@@ -2,10 +2,10 @@
 toc: true
 comments: true
 layout: post
-title: Review Ticket Week 2
-description: Things my pair and I did in week 2
+title: Review Ticket Week 3
+description: Things my pair and I did in week 3
 type: tangibles
-courses: { compsci: {week: 2} }
+courses: { compsci: {week: 3} }
 ---
 
 ### Summary of Accomplishments

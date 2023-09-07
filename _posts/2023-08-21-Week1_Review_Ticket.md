@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: Review Ticket Week 1
-description: Things I did in week 1
+description: Things my pair and I did in week 1
 type: tangibles
 courses: { compsci: {week: 1} }
 ---
