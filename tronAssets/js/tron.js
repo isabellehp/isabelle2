@@ -1,7 +1,6 @@
 const canvas = document.getElementById("tron");
 const context = canvas.getContext("2d");
 const unit = 12;
-const gamingTipsLol = ['maybe you need some training Top 10 Gaming Tips and Tricks from the Pros https://www.hp.com/ca-en/shop/offer.aspx?p=top-10-gaming-tips-and-tricks-pro&lang=en-CA', 'maybe you need some training 10 Tips to Become a Better Gamer https://www.drinkhydrant.com/blogs/news/10-tips-to-become-a-better-gamer', 'That was hard to watch Game Tips - Gaming Reviews, News, Tips and More. https://kotaku.com/game-tips', 'That was hard to watch Tech - Gaming - Tips, Tricks and Hacks for Doing Everything Better https://lifehacker.com/tech/gaming', 'maybe you need some training Tips for a Successful Gaming Session https://www.enostech.com/tips-for-a-successful-gaming-session/', 'That was rough Tips for a Successful Gaming Session https://www.enostech.com/tips-for-a-successful-gaming-session/#Pick_The_Right_Console', 'That was rough Tips for a Successful Gaming Session https://www.enostech.com/tips-for-a-successful-gaming-session/#Get_Reliable_Accessories_and_Gear', 'LMAO better luck next time Tips for a Successful Gaming Session https://www.enostech.com/tips-for-a-successful-gaming-session/#Playlist']
 class Player {
     constructor(x, y, color) {
     this.color = color || "#fff";
@@ -175,7 +174,7 @@ function createResultsScreen(color) {
     resultNode.style.background = "#00000088";
 
     const gamingTips = document.createElement("h1");
-    gamingTips.innerText = gamingTipsLol[Math.floor(Math.random()*gamingTipsLol.length)];
+    gamingTips.innerText = gamingtips[Math.floor(Math.random()*gamingtips.length)];
     gamingTips.fontFamily = "Bungee, cursive";
     gamingTips.color = "black";
 
@@ -236,3 +235,14 @@ function resetGame() {
     clearInterval(game);
     game = setInterval(draw, 100);
 }
+
+
+
+
+
+
+
+
+
+
+const gamingtips = ['Here are some gaming tips: Top 10 Gaming Tips and Tricks from the Pros https://www.hp.com/ca-en/shop/offer.aspx?p=top-10-gaming-tips-and-tricks-pro&lang=en-CA', 'Here are some gaming tips: 10 Tips to Become a Better Gamer https://www.drinkhydrant.com/blogs/news/10-tips-to-become-a-better-gamer', 'You may need some help: Game Tips - Gaming Reviews, News, Tips and More. https://kotaku.com/game-tips', 'You may need some help: Tech - Gaming - Tips, Tricks and Hacks for Doing Everything Better https://lifehacker.com/tech/gaming', 'Here are some gaming tips: Tips for a Successful Gaming Session https://www.enostech.com/tips-for-a-successful-gaming-session/', 'That was rough: Tips for a Successful Gaming Session https://www.enostech.com/tips-for-a-successful-gaming-session/#Pick_The_Right_Console', 'That was rough: Tips for a Successful Gaming Session https://www.enostech.com/tips-for-a-successful-gaming-session/#Get_Reliable_Accessories_and_Gear', 'Better luck next time: Tips for a Successful Gaming Session https://www.enostech.com/tips-for-a-successful-gaming-session/#Playlist']
