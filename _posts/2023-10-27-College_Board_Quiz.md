@@ -5,7 +5,7 @@ layout: post
 title: College Board Quiz Notes
 description: Notes and corrections for College Board quiz (2018 Practice MCQ)
 type: tangibles
-courses: { compsci: {week: 10} }
+courses: { compsci: {week: 11} }
 ---
 
 ## Quiz Notes
