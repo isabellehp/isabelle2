@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Student Blog
+title: Isabelle's Student Blog
 ---
 
-
-# Computer Science Lab Notebook
+# Computer Science Timebox
 ## Isabelle Park
 ![](images/collage.png) 
