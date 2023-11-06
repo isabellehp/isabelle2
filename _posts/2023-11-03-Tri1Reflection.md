@@ -8,7 +8,7 @@ type: tangibles
 courses: { compsci: {week: 12} }
 ---
 
-Reflecting on the first three units of AP Computer Science Principles, I've learned a lot about fundamental concepts. These initial months have been filled with memories and valuable learning experiences that will definitely shape my journey through this course. Here are some of my key takeaways and reflections:
+Reflecting on the first three units of AP Computer Science Principles, I've learned a lot about fundamental concepts. These initial months have been filled with memories and valuable learning experiences that will definitely shape my journey through this course. I think I've improved a lot since the beginning of the school year knowing nothing at all. I was recently looking at previous small projects/hacks and find it amazing that I was able to work with a group of 4 others to create a really cool looking game. Here are some of my key takeaways and reflections:
 
 ## Memories and Learnings from Trimester 1
 - Making new friends with my CS team was definitely a highlight of this class. I had a lot of fun with them, especially when we were working on our passion project together.
