@@ -35,7 +35,7 @@ Reflecting on the first three units of AP Computer Science Principles, I've lear
 
 - Cybersecurity and Privacy: I saw some questions relating to this on the MCQ and was interested in exploring the world of cybersecurity and understanding how to protect information in the digital age. This knowledge is not only relevant to computer science but also to our everyday lives.
 
-- Impact of Computing: In future trimesters, I hope to explore the ethical and societal implications of technology. Understanding how computing can influence and shape our world is crucial in this digital era.
+- Coding Backend: this trimester, I had the role of a frontend coder in my team and didn't really know much about backend. In my group next trimester, I want to explore backend more to have a whole understanding and be an all rounder (maybe not take on the backend position, just be more involved).
 
 ## Opportunities for Growth:
 
