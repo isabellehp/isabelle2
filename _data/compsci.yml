@@ -16,6 +16,11 @@ Unit3:
   end: 12
 Unit4:
   title: Tri 2 start
-  description: ---
+  description: College Board student lessons
   start: 13
-  end: 17
+  end: 16
+Unit5:
+  title: Begin Tri 2 Project
+  description: User login lessons, 
+  start: 17
+  end: 24
