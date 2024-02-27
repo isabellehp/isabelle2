@@ -21,7 +21,6 @@ For this project, I made a mood tracker feature. It shows four different emojis 
 
 | College Board requirements | My project |
 |------------------|------------------|
-
 | Instructions for input from one of the following: the user, a device, an online datas stream, a file. | Our team project has many user inputs. My feature has user interaction with buttons that represent their mood, and we also have many other inputs such as the to-do list agenda, journal, and whiteboard features. |
 | Use of at least one list (or other collection type) to represent a collectino of data that is stored and used to manage program complexity and help fulfill the users purpose. | JSON serves as a data collection to monitor and record the user's mood. Its role is to streamline program intricacies and contribute to achieving the program's goal of monitoring user mood/mental health patterns. |
 | At least one procedure that contirubted to the program's intened purpose where you have defined: the name, return type, one or more parameters: | <a href="https://ibb.co/4YxSbrP"><img src="https://i.ibb.co/JyPpYJ5/Screenshot-2024-02-27-002224.png" alt="Screenshot-2024-02-27-002224" border="0"></a> |
