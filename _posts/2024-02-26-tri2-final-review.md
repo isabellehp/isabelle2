@@ -18,8 +18,10 @@ For this project, I made a mood tracker feature. It shows four different emojis 
 
 
 ## College Board Requirements
+
 | College Board requirements | My project |
 |------------------|------------------|
+
 | Instructions for input from one of the following: the user, a device, an online datas stream, a file. | Our team project has many user inputs. My feature has user interaction with buttons that represent their mood, and we also have many other inputs such as the to-do list agenda, journal, and whiteboard features. |
 | Use of at least one list (or other collection type) to represent a collectino of data that is stored and used to manage program complexity and help fulfill the users purpose. | JSON serves as a data collection to monitor and record the user's mood. Its role is to streamline program intricacies and contribute to achieving the program's goal of monitoring user mood/mental health patterns. |
 | At least one procedure that contirubted to the program's intened purpose where you have defined: the name, return type, one or more parameters: | <a href="https://ibb.co/4YxSbrP"><img src="https://i.ibb.co/JyPpYJ5/Screenshot-2024-02-27-002224.png" alt="Screenshot-2024-02-27-002224" border="0"></a> |
@@ -28,10 +30,10 @@ For this project, I made a mood tracker feature. It shows four different emojis 
 ## Video
 [Video](https://drive.google.com/file/d/1eptsX4H51b4x0ehKnctOHh323-eVRVMf/view?usp=sharing)
 
-| Collegboard Requirements | My Video |
+| Collegboard Requirements | My video |
 |------------------|------------------|
 | Input to program | In video: sign-in, login, emoji selection |
 | At least one aspect of the functionality of your program| Mood is added to the correct day of the month  |
 | Output produced by program: | Emoji representation of mood is displayed on the calendar |
-| My video does not have: | any distinguishing information and voice narration  |
-| My video is | a .mp4, less than 1 minute in length, less than 30MB in file size.  |
+| My video does not have: | any distinguishing information and voice narration |
+| My video is | a .mp4, less than 1 minute in length, less than 30MB in file size. |
